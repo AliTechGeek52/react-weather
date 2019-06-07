@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-weather/static/css/main.68d0eed1.chunk.css",
+    "main.js": "/react-weather/static/js/main.b56a6157.chunk.js",
+    "main.js.map": "/react-weather/static/js/main.b56a6157.chunk.js.map",
+    "runtime~main.js": "/react-weather/static/js/runtime~main.2302d1fd.js",
+    "runtime~main.js.map": "/react-weather/static/js/runtime~main.2302d1fd.js.map",
+    "static/js/2.0f6d48c1.chunk.js": "/react-weather/static/js/2.0f6d48c1.chunk.js",
+    "static/js/2.0f6d48c1.chunk.js.map": "/react-weather/static/js/2.0f6d48c1.chunk.js.map",
+    "index.html": "/react-weather/index.html",
+    "precache-manifest.c99e792c47245b44578562010f2e4d38.js": "/react-weather/precache-manifest.c99e792c47245b44578562010f2e4d38.js",
+    "service-worker.js": "/react-weather/service-worker.js",
+    "static/css/main.68d0eed1.chunk.css.map": "/react-weather/static/css/main.68d0eed1.chunk.css.map",
+    "static/media/rain.png": "/react-weather/static/media/rain.e0bb6c51.png",
+    "static/media/weather-city.jpg": "/react-weather/static/media/weather-city.40382ff2.jpg"
+  }
+}
